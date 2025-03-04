@@ -1,7 +1,7 @@
 # Pitcher's Plate
 
 A React Native Expo application for baseball pitchers and coaches to track pitching sessions and performance.
-This was created for my capstone project for my Senior Design class at the University of Iowa.
+This was my capstone project for my Senior Design class at the University of Iowa.
 I was the sole developer for this project.
 
 My team and I entered the Innovation Challenge put on by the University of Iowa John Pappajohn Entrepreneurial Center and were given $5,000 in funding for 1st Place in the Best Active Lifestyle Business category.
