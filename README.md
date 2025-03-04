@@ -34,32 +34,6 @@ Pitcher's Plate is a mobile application designed to help baseball pitchers track
 - Firestore Database
 - React Navigation
 
-## Installation
-
-1. Clone the repository:
-```
-git clone https://github.com/yourusername/Pitchers_Plate.git
-cd Pitchers_Plate
-```
-
-2. Install dependencies:
-```
-npm install
-```
-
-3. Set up Firebase configuration:
-```
-cp firebase.config.template.js firebase.config.js
-```
-Then edit `firebase.config.js` with your Firebase project credentials.
-
-4. Start the Expo development server:
-```
-npx expo start
-```
-
-5. Use the Expo Go app on your mobile device to scan the QR code, or run on an emulator.
-
 ## Usage
 
 ### Account Creation
